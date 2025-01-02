@@ -43,7 +43,7 @@ I'm a **Computer Engineering student** passionate about building scalable and ef
 ### 1. E-commerce Website (Full-Stack CRUD)
 - **Description**: A full-stack e-commerce website with React.js, Node.js, and MongoDB.
 - **Features**: Dynamic product management, secure authentication, and responsive design.
-- **Repository**: [GitHub Link](https://github.com/bhipendar14/ecommerce-project)
+- **Repository**: [GitHub Link](https://github.com/bhipendar14/bhipendar14)
 
 ### 2. Java CRUD Banking Website
 - **Description**: A Java-based banking website that performs CRUD operations.
