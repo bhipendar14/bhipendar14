@@ -1,88 +1,84 @@
-# Hi there, I'm **Bhipendar Kumar!** 👋  
-
-![Header Image](https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif)  
-
-I'm a **Computer Engineering student** with a passion for **Full-Stack Web Development**, **Cloud Computing**, and **Backend Integration**. I love solving complex problems and building scalable, efficient software solutions. With hands-on experience in the **MERN Stack** and **AWS**, I'm always eager to take on new challenges and collaborate on impactful projects.  
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm <span style="color:#FF6347;">Bhipendar Kumar</span> 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F74C00&size=25&center=true&vCenter=true&width=500&lines=AI-Focused+Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+Flutter;Cloud+%26+AI+Integration;Open+Source+Contributor;Problem+Solver+%26+Innovator" />
+</p>
 
 ---
 
 ## 🚀 About Me  
-
-🎓 **Degree**: Computer Engineering Student (3rd Year)  
-💻 **Expertise**: MERN Stack | AWS | Cloud Computing  
-🌱 **Currently Learning**: Advanced AWS Solutions & Full-Stack Development  
-⚡ **Hobbies**: Problem-solving | Open-Source Contributions | Exploring New Tech  
-🌍 **Future Goal**: Work in **Japan** after graduation 🇯🇵  
+🎓 **B.Tech Computer Engineering** | 3rd Year @ Marwadi University  
+💻 **Expert in**: MERN | Next.js | TypeScript | Flutter | AWS | AI APIs  
+🤖 **Passion**: Integrating AI/ML into scalable apps  
+🌱 **Currently Learning**: Advanced AI API Integration & Cloud Architecture  
+🌍 **Goal**: Build & Innovate globally — work in **Japan 🇯🇵** after graduation  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
-### 🚀 Frontend  
-- **Languages**: HTML | CSS | JavaScript  
-- **Frameworks**: React.js | Vite  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20TS%20%7C%20React%20%7C%20Next.js-blue?style=for-the-badge" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js%20%7C%20Java%20%7C%20C%20%7C%20C%23-green?style=for-the-badge" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Databases-MongoDB%20%7C%20MySQL%20%7C%20Firebase-yellow?style=for-the-badge" />
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Cloudflare-orange?style=for-the-badge" />
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/AI%20%26%20APIs-OpenAI%20%7C%20Machine%20Learning-red?style=for-the-badge" />
+</p>
 
-### 🏗️ Backend  
-- **Languages**: Node.js | Express.js | Java | C | C#  
-- **Databases**: MongoDB | Firebase  
+---
 
-### ☁️ Cloud & DevOps  
-- **Cloud Platforms**: AWS (Amazon Web Services)  
-- **Version Control**: Git & GitHub  
+## 📁 Featured Projects  
+
+### 🏦 [**DSR Group Mandsaur – Financial Website**](https://dsrgroupmandsaur.com)  
+🔹 **Tech**: Next.js, TypeScript, Nodemailer  
+🔹 **Highlights**: SEO optimized, secure forms, mobile-first design  
+
+---
+
+### 🐶 [**Pet Pickup Service – Real-Time Booking**](https://paw-to-go.vercel.app/)  
+🔹 **Tech**: React.js, Socket.io, MongoDB, JWT  
+🔹 **Highlights**: Real-time booking, instant notifications, role-based access  
+
+---
+
+### 🛒 [**B-Market – E-commerce Platform**](https://b-market.vercel.app/)  
+🔹 **Tech**: MERN Stack, JWT, AWS, Docker  
+🔹 **Highlights**: Secure payments, dynamic product management, scalable deployment  
 
 ---
 
 ## 📈 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhipendar14&show_icons=true&theme=radical" width="48%" alt="Bhipendar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhipendar14&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhipendar14&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhipendar14&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhipendar14&theme=react-dark" alt="Activity Graph"/>
+</p>
 
 ---
 
-## 📁 Projects  
-
-### 🛒 **B-Market - E-commerce Website**  
-🔹 **Description**: A full-stack e-commerce platform built with React.js, Node.js, and MongoDB.  
-🔹 **Features**:  
-✅ Dynamic product management  
-✅ Secure authentication  
-✅ Responsive UI  
-
-🔹 **Live Demo**: [B-Market](https://b-market.vercel.app)  
-🔹 **Repository**: [GitHub Link](https://github.com/bhipendar14/bhipendar14)  
-
----
-
-### 🐶 **Pet Pickup Service**  
-🔹 **Description**: A MERN-based pet pickup and training service platform.  
-🔹 **Features**:  
-✅ Slot booking system  
-✅ Real-time updates  
-✅ Admin & employee role management  
-
-🔹 **Repository**: [GitHub Link](https://github.com/bhipendar14/Bank-Management)  
-
-
----
-
-### 🏦 **Java CRUD Banking System**  
-🔹 **Description**: A Java-based banking website that performs CRUD operations.  
-🔹 **Features**:  
-✅ Account management  
-✅ Transaction history  
-✅ Secure login system  
-
-🔹 **Repository**: [GitHub Link](https://github.com/bhipendar14/Bank-Management)  
+## 📜 Certifications  
+- **Flutter Development** – FreeCodeCamp  
+- **Flutter & Dart: The Complete Guide** – The Net Ninja  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhipendar-kumar-b5068626a)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://portfolio-ivory-alpha-93.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-Send-red)](mailto:bhipendarkumar31@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhipendar-kumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://profile-ten-navy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox" /></a>
+  <a href="mailto:bhipendarkumar31@gmail.com"><img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/bhipendar14"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
@@ -91,4 +87,6 @@ I'm a **Computer Engineering student** with a passion for **Full-Stack Web Devel
 
 ---
 
-### 🔥 Let’s Build Something Amazing Together! 🚀  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
