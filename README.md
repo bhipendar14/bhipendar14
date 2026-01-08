@@ -1,78 +1,90 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Bhipendar Kumar</h1>
-<h3 align="center">🚀 AI-Focused Full-Stack Developer | MERN | Next.js | Flutter | AI/ML</h3>
+<h1 align="center">Bhipendar Kumar</h1>
+<p align="center">
+AI-Focused Full-Stack Developer · Next.js · MERN · TypeScript · Flutter · AI Systems
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhipendar14&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/bhipendar14?label=Followers&style=social" alt="followers" />
+📍 Rajkot, India · 🎓 B.Tech Computer Engineering (2022–2026)  
+📧 bhipendarkumar31@gmail.com · 🌐 https://profile-bhipendars-projects.vercel.app/ · 💼 https://www.linkedin.com/in/bhipendar-kumar/
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-💡 AI-Focused **Full-Stack Developer** with expertise in **MERN, Next.js, TypeScript, Flutter, and AI/ML**.  
-🔹 Skilled in **building scalable apps**, **integrating AI APIs**, and **cloud deployment (AWS, Firebase, Docker)**.  
-🔹 Strong problem-solving, teamwork, and adaptability — preparing for **product-based companies**.  
-🔹 Actively contributing to **open-source & real-world projects**.  
+## Professional Summary
 
-📍 Rajkot, India | 🎓 B.Tech Computer Engineering (2022–2026)  
+AI-focused Full-Stack Developer who builds and deploys **production-grade, scalable systems** using Next.js, TypeScript, MERN, and Flutter.  
+Specialized in **AI integration, real-time data systems, and cloud-native deployments** (AWS, Firebase, Docker).  
+Experienced in delivering reliable software for finance, services, and AI-driven platforms with a strong focus on performance, security, and maintainability.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,flutter,nodejs,express,mongodb,mysql,java,c,cs,aws,firebase,docker,git,github" />
-</p>
+## Core Competencies
+
+- Full-Stack Web Development (Next.js, React, TypeScript, MERN)  
+- AI & API Integration (OpenAI, REST APIs, real-time systems)  
+- Cloud & DevOps (AWS, Firebase, Docker, CI/CD basics)  
+- Database Design (MongoDB, MySQL, PostgreSQL)  
+- Scalable UI Systems (Tailwind CSS, Flutter)
 
 ---
 
-## 🚀 Featured Projects  
-✅ **[DSR Group Financial Website](https://dsrgroupmandsaur.com/)**  
-🔹 Tech: Next.js, TypeScript, SEO, Nodemailer  
+## Selected Projects
 
-✅ **[Pet Pickup Service](https://paw-to-go.vercel.app/)**  
-🔹 Tech: React.js, Socket.io, MongoDB | Real-time booking system  
-
-✅ **[B-Market E-commerce](https://b-market.vercel.app/)**  
-🔹 Tech: MERN, JWT Auth, AWS | Full-stack e-commerce platform  
-
-👉 Check out more projects on my [GitHub Repos](https://github.com/bhipendar14?tab=repositories)  
+### MeraAI — AI Multi-Module Platform (Live)  
+🔗 https://mera-ai-one.vercel.app/  
+- Architected and built a modular AI platform offering chat, voice, file tools, news, markets, entertainment, and travel services.  
+- Integrated OpenAI and live data APIs with secure and scalable backend services.  
+- Delivered a fully responsive, high-performance UI using Next.js, TypeScript, and Tailwind CSS.
 
 ---
 
-## 📊 GitHub Stats & Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhipendar14&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhipendar14&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhipendar14&theme=radical" alt="streak stats" />
-</p>
+### DSR Group Financial Platform  
+🔗 https://dsrgroupmandsaur.com/  
+- Delivered a 40+ page financial analytics platform covering IPOs, Stocks, Mutual Funds, Loans, and Market Insights.  
+- Implemented live stock data pipelines and financial calculators (SIP, EMI, Retirement, Insurance).  
+- Improved page performance, SEO visibility, and system reliability in production.
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhipendar14&theme=radical&margin-w=10&margin-h=10&row=1&column=7" alt="Trophies"/>
-</p>
+### PawToGo — Pet Pickup Service  
+🔗 https://paw-to-go.vercel.app/  
+- Built a real-time service booking and tracking platform using the MERN stack.  
+- Implemented automated workflows, dashboards, and notification pipelines.
 
 ---
 
-## 📚 Certifications
-- ✅ Flutter Development – FreeCodeCamp  
-- ✅ Flutter & Dart – The Net Ninja  
+## Professional Experience
+
+**Full-Stack Developer (Freelance)** — Feb 2025 to May 2025  
+**DSR Group, India**  
+- Designed, built, and deployed scalable web systems for finance and service-based platforms.  
+- Integrated third-party APIs and optimized system performance and reliability.  
+- Managed cloud deployments, security configurations, and uptime monitoring.
 
 ---
 
-## 🌍 Connect with Me  
-<p align="center">
-  <a href="mailto:bhipendarkumar31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bhipendar-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://profile-bhipendars-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/bhipendar14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+## Education
+
+**B.Tech in Computer Engineering** — Marwadi University, Rajkot  
+2022 – 2026
 
 ---
 
-⭐ *“I code to build solutions that merge intelligence with innovation.”*  
+## Certifications
+
+- Oracle — Database Programming with SQL  
+- IBM — Enterprise Data Science  
+- Flutter & Dart — The Net Ninja  
+
+---
+
+## Contact
+
+📧 Email: bhipendarkumar31@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/bhipendar-kumar/  
+🌐 Portfolio: https://profile-bhipendars-projects.vercel.app/  
+🐙 GitHub: https://github.com/bhipendar14  
+
+---
+
+*Open to full-time opportunities in Full-Stack, Backend, or AI Engineering roles.*
